@@ -63,3 +63,32 @@
 ## Sprint 2 y Release 2
 
 **Resultado esperado:** Tarea para la casa 😜
+
+## No olviden ##
+Cerrar el PR
+Clean-up: Borrar el feature branch
+Actualizar el develop local 
+
+En Release
+Agregar un txt con release notes
+Seguir el proceso mismo proceso anterior
+
+## Entrega ##
+Al finalizar el trabajo, cree un email con la URL del proyecto creado para su revisión. No olvide seguir las indicaciones de como hacer buenos commits siguiendo las instrucciones de branching dadas.
+
+Notas finales
+
+Evite hacer esto:
+- Siete reglas para hacer un buen mensaje de commit:
+- Separa el título del cuerpo con una línea en blanco
+- Limita título a 50 caracteres
+- Capitaliza el título
+- No termines el título con un punto
+- Utiliza el modo imperativo en el título
+- Limita el cuerpo a 72 caracteres
+- Utiliza el cuerpo para explicar qué y por qué vs cómo
+
+Referencia: http://tomasdelvechio.github.io/old/440/
+
+
+
